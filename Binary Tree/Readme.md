@@ -95,7 +95,7 @@ If in a binary tree each node contains only one child node either on the left 
 
 Degenerate binary trees are equal to linked lists in terms of performance. The following tree shows a degenerate binary tree –
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg"  width="400">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg"  width="300">
 
 
 Degenerate binary trees can also be classified into two types –
@@ -103,12 +103,12 @@ Degenerate binary trees can also be classified into two types –
 **a. Left-skewed** – A degenerate binary tree in which all the nodes lean towards the left side of the tree. The following diagram shows a left-skewed degenerate binary tree –
 
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg"  width="400">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg"  width="300">
 
 **b. Right-skewed** – A degenerate binary tree in which all the nodes lean towards the right side of the tree. The following diagram shows a right-skewed degenerate binary tree –
 
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg"  width="400">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg"  width="300">
 
 ### 5. Balanced Binary Trees
 
