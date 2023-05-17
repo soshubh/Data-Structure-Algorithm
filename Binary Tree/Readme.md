@@ -30,7 +30,8 @@ A binary tree is a tree-type non-linear data structure with a maximum of two chi
 
 **8. Height of a Binary Tree** – The number of edges from the deepest node in the tree to the root node.
 
-![terminologies-in-binary-trees-1024x640.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/terminologies-in-binary-trees-1024x640.jpg)
+ <img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/terminologies-in-binary-trees-1024x640.jpg"  width="700">
+
 
 ## Types of Binary Tree in Data Structure
 
@@ -52,9 +53,9 @@ In other words, if in a binary tree a node contains only one child node, it is
 
 The following diagrams shows a full binary tree –
 
-![image.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image.jpg)
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image.jpg"  width="500">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1.jpg"  width="700">
 
-![image1.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1.jpg)
 
 **Notice how each node has either zero or two children nodes.**
 
