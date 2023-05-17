@@ -99,7 +99,7 @@ Degenerate binary trees can also be classified into two types –
 
 **a. Left-skewed** – A degenerate binary tree in which all the nodes lean towards the left side of the tree. The following diagram shows a left-skewed degenerate binary tree –
 
-![https://www.scaler.com/topics/media/left-skewed.webp](https://www.scaler.com/topics/media/left-skewed.webp)
+![op1.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg)
 
 **b. Right-skewed** – A degenerate binary tree in which all the nodes lean towards the right side of the tree. The following diagram shows a right-skewed degenerate binary tree –
 
