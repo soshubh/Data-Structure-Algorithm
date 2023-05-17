@@ -95,7 +95,7 @@ If in a binary tree each node contains only one child node either on the left 
 
 Degenerate binary trees are equal to linked lists in terms of performance. The following tree shows a degenerate binary tree –
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg"  width="500">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg"  width="400">
 
 
 Degenerate binary trees can also be classified into two types –
@@ -103,12 +103,12 @@ Degenerate binary trees can also be classified into two types –
 **a. Left-skewed** – A degenerate binary tree in which all the nodes lean towards the left side of the tree. The following diagram shows a left-skewed degenerate binary tree –
 
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg"  width="500">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg"  width="400">
 
 **b. Right-skewed** – A degenerate binary tree in which all the nodes lean towards the right side of the tree. The following diagram shows a right-skewed degenerate binary tree –
 
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg"  width="500">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg"  width="400">
 
 ### 5. Balanced Binary Trees
 
@@ -117,7 +117,7 @@ A binary tree is said to be balanced if the height of the left and the right s
 In a balanced binary tree, both the left and right trees are also balanced. The following diagram shows a balanced binary tree –
 
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%204.jpg" >
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%204.jpg" width="600" >
 
 Notice that in the first image, the right subtree is at the height of 3, and the left subtree is at 2. The difference between the heights of the left and the right subtree is therefore 1. Therefore, the given tree is a balanced binary tree.
 
