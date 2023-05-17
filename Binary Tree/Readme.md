@@ -75,7 +75,7 @@ In a complete binary tree –
 
 The following trees are complete binary trees since they have no empty spaces in them.
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%201.jpg"  width="500">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%201.jpg"  width="700">
 
 ### 3. Perfect Binary Trees
 
@@ -85,7 +85,7 @@ In a perfect binary tree, all the leaf nodes are on the same level.
 
 The following diagrams represents a perfect binary tree –
 
-<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%202.jpg"  width="300">
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%202.jpg"  width="700">
 
 Consider a perfect binary tree with height h, the total number of nodes in this case is given by 2h – 1.
 
@@ -95,17 +95,20 @@ If in a binary tree each node contains only one child node either on the left 
 
 Degenerate binary trees are equal to linked lists in terms of performance. The following tree shows a degenerate binary tree –
 
-![image1.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg)
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1%201.jpg"  width="500">
+
 
 Degenerate binary trees can also be classified into two types –
 
 **a. Left-skewed** – A degenerate binary tree in which all the nodes lean towards the left side of the tree. The following diagram shows a left-skewed degenerate binary tree –
 
-![op1.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg)
+
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/op1.jpg"  width="500">
 
 **b. Right-skewed** – A degenerate binary tree in which all the nodes lean towards the right side of the tree. The following diagram shows a right-skewed degenerate binary tree –
 
-![image.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg)
+
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%203.jpg"  width="500">
 
 ### 5. Balanced Binary Trees
 
@@ -113,7 +116,8 @@ A binary tree is said to be balanced if the height of the left and the right s
 
 In a balanced binary tree, both the left and right trees are also balanced. The following diagram shows a balanced binary tree –
 
-![image.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%204.jpg)
+
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%204.jpg" >
 
 Notice that in the first image, the right subtree is at the height of 3, and the left subtree is at 2. The difference between the heights of the left and the right subtree is therefore 1. Therefore, the given tree is a balanced binary tree.
 
