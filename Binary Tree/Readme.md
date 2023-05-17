@@ -12,7 +12,7 @@ A binary tree is a tree-type non-linear data structure with a maximum of two chi
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
+
 
 ## Terminologies in Binary Tree in Data Structure
 
