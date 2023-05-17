@@ -53,7 +53,7 @@ In other words, if in a binary tree a node contains only one child node, it is
 
 The following diagrams shows a full binary tree –
 
-|<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image.jpg"  width="300"> | <img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1.jpg"  width="250">|
+|<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image.jpg"  width="300"> | <img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image1.jpg"  width="255">|
 |--|--|
 
 
@@ -75,7 +75,7 @@ In a complete binary tree –
 
 The following trees are complete binary trees since they have no empty spaces in them.
 
-![image.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%201.jpg)
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%201.jpg"  width="500">
 
 ### 3. Perfect Binary Trees
 
@@ -85,7 +85,7 @@ In a perfect binary tree, all the leaf nodes are on the same level.
 
 The following diagrams represents a perfect binary tree –
 
-![image.jpg](Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%202.jpg)
+<img src="Introduction%20to%20binary%20tree%2074170bbb4fad49a399f4b015b5b68c6d/image%202.jpg"  width="300">
 
 Consider a perfect binary tree with height h, the total number of nodes in this case is given by 2h – 1.
 
