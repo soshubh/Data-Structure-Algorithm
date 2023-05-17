@@ -38,9 +38,13 @@ A binary tree is a tree-type non-linear data structure with a maximum of two chi
 There are several types of binary trees in data structure, including:
 
 - **Full binary tree:** A binary tree is called a full binary tree if every node has 0 or 2 children. In other words, if a node has a child, then it must have two children.
+
 - **Complete binary tree:** A binary tree is called a complete binary tree if all levels are completely filled, except possibly the last level, and the last level has all keys as left as possible.
+
 - **Perfect binary tree:** A binary tree is called a perfect binary tree if all internal nodes have two children and all leaves are at the same level.
+
 - **Balanced binary tree:** A binary tree is called a balanced binary tree if the height of the tree is O(Log n) where n is the number of nodes.
+
 - **Degenerate (or pathological) tree:** A binary tree is called a degenerate tree if each parent node has only one associated child node.
 
 **Let’s discuss some of them in detail** –
