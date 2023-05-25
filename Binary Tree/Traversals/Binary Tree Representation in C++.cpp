@@ -3,6 +3,7 @@
 class Solution
 {
 public:
+    
     void create_tree(node *r, vector<int> &v)
     {
         r->data = v[0];
