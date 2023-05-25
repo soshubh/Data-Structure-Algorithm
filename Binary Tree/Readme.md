@@ -8,6 +8,7 @@ A binary tree is a tree-type non-linear data structure with a maximum of two chi
 - **Space complexity:-** *O*(*n*)
 
 
+
 | <img src="ReadmeAsset/what-are-binary-trees-1-1024x640.jpg"  width="500"> | <img src="ReadmeAsset/three-elements-of-binary-trees-1024x640.jpg"  width="500"> |
 |---------------------------|----------------------------|
 
